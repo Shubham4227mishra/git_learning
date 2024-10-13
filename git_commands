@@ -10,4 +10,5 @@ then set pat token
 git remote set-url origin
 git push origin master
 git clone url_from rep
+git pull origin master  ## to pull code from github to local
 
