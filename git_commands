@@ -5,7 +5,7 @@ git rm --cached filename
 git commit -m "message here"
 git log
 git diff
-git remote add origin url
+git remote add origin url_website
 then set pat token
 git remote set-url origin
 git push origin master
