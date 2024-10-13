@@ -9,6 +9,6 @@ else
 	sudo apt install nginx -y
 	systemctl enable nginx
 	systemctl start nginx
-	echo "hello world from $(hostname -f)" > /var/www/html/index.html
+	echo "hello shubham from $(hostname -f)" > /var/www/html/index.html
 fi
 
