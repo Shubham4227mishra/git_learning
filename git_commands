@@ -9,5 +9,5 @@ git remote add origin url_website
 then set pat token
 git remote set-url origin
 git push origin master
-git clone url
+git clone url_from rep
 
